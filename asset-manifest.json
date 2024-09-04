@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/your-repository-name/static/css/main.2dbf30d9.css",
-    "main.js": "/your-repository-name/static/js/main.9d2d6c7b.js",
-    "static/js/453.362f35c5.chunk.js": "/your-repository-name/static/js/453.362f35c5.chunk.js",
-    "index.html": "/your-repository-name/index.html",
-    "main.2dbf30d9.css.map": "/your-repository-name/static/css/main.2dbf30d9.css.map",
-    "main.9d2d6c7b.js.map": "/your-repository-name/static/js/main.9d2d6c7b.js.map",
-    "453.362f35c5.chunk.js.map": "/your-repository-name/static/js/453.362f35c5.chunk.js.map"
+    "main.css": "/trip_expenses_calculator/static/css/main.2dbf30d9.css",
+    "main.js": "/trip_expenses_calculator/static/js/main.1ba00318.js",
+    "static/js/453.362f35c5.chunk.js": "/trip_expenses_calculator/static/js/453.362f35c5.chunk.js",
+    "index.html": "/trip_expenses_calculator/index.html",
+    "main.2dbf30d9.css.map": "/trip_expenses_calculator/static/css/main.2dbf30d9.css.map",
+    "main.1ba00318.js.map": "/trip_expenses_calculator/static/js/main.1ba00318.js.map",
+    "453.362f35c5.chunk.js.map": "/trip_expenses_calculator/static/js/453.362f35c5.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2dbf30d9.css",
-    "static/js/main.9d2d6c7b.js"
+    "static/js/main.1ba00318.js"
   ]
 }
